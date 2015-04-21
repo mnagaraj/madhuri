@@ -1,0 +1,110 @@
+[
+	{
+		"name": "ABB Group",
+		"industry": "Automobiles and Parts",
+		"size": "Medium",
+		"type": "Privately-owned national company/organization",
+		"founded": "2010",
+		"state": "California",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Accenture",
+		"industry": "Auditing and Accounting",
+		"size": "Large",
+		"type": "Start-up",
+		"founded": "2012",
+		"state": "Alaska",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Cardinal Health",
+		"industry": "Consumer Electronics and Household Appliances",
+		"size": "Small",
+		"type": "Privately-owned national company/organization",
+		"founded": "2009",
+		"state": "Colorado",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Oracle",
+		"industry": "Engineering and Manufacturing",
+		"size": "Small",
+		"type": "Privately-owned national company/organization",
+		"founded": "2008",
+		"state": "Florida",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Siemens",
+		"industry": "Engineering and Manufacturing",
+		"size": "Medium",
+		"type": "Government",
+		"founded": "2011",
+		"state": "Illinois",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Sprint",
+		"industry": "Public Sector and Governmental Agencies",
+		"size": "Large",
+		"type": "Privately-owned national company/organization",
+		"founded": "2011",
+		"state": "California",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "TCS (Tata Consultancy Services)",
+		"industry": "Retail",
+		"size": "Small",
+		"type": "International company/organization",
+		"founded": "2013",
+		"state": "Iowa",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "SABIC Innovative Plastics",
+		"industry": "Telecommunication and Networks",
+		"size": "Large",
+		"type": "Privately-owned national company/organization",
+		"founded": "2011",
+		"state": "California",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	},
+	{
+		"name": "Mars Incorporated",
+		"industry": "Transportation and Logistics",
+		"size": "Medium",
+		"type": "International company/organization",
+		"founded": "2010",
+		"state": "Iowa",
+		"perks": "",
+		"city": "",
+		"evp": "",
+		"imgUrl": "./img/abb.jpg"
+	}
+]

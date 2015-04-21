@@ -1,0 +1,291 @@
+{
+	"states": [
+		{
+			"value": "Alabama"
+		},
+		{
+			"value": "Alaska"
+		},
+		{
+			"value": "Arizona"
+		},
+		{
+			"value": "Arkansas"
+		},
+		{
+			"value": "California"
+		},
+		{
+			"value": "Colorado"
+		},
+		{
+			"value": "Connecticut"
+		},
+		{
+			"value": "Delaware"
+		},
+		{
+			"value": "District of Columbia"
+		},
+		{
+			"value": "Florida"
+		},
+		{
+			"value": "Georgia"
+		},
+		{
+			"value": "Hawaii"
+		},
+		{
+			"value": "Idaho"
+		},
+		{
+			"value": "Illinois"
+		},
+		{
+			"value": "Indiana"
+		},
+		{
+			"value": "Iowa"
+		},
+		{
+			"value": "Kansas"
+		},
+		{
+			"value": "Kentucky"
+		},
+		{
+			"value": "Louisiana"
+		},
+		{
+			"value": "Maine"
+		},
+		{
+			"value": "Maryland"
+		},
+		{
+			"value": "Massachusetts"
+		},
+		{
+			"value": "Michigan"
+		},
+		{
+			"value": "Minnesota"
+		},
+		{
+			"value": "Mississippi"
+		},
+		{
+			"value": "Missouri"
+		},
+		{
+			"value": "Montana"
+		},
+		{
+			"value": "Nebraska"
+		},
+		{
+			"value": "Nevada"
+		},
+		{
+			"value": "New Hampshire"
+		},
+		{
+			"value": "New Jersey"
+		},
+		{
+			"value": "New Mexico"
+		},
+		{
+			"value": "New York"
+		},
+		{
+			"value": "North Carolina"
+		},
+		{
+			"value": "North Dakota"
+		},
+		{
+			"value": "Ohio"
+		},
+		{
+			"value": "Oklahoma"
+		},
+		{
+			"value": "Oregon"
+		},
+		{
+			"value": "Pennsylvania"
+		},
+		{
+			"value": "Rhode Island"
+		},
+		{
+			"value": "South Carolina"
+		},
+		{
+			"value": "South Dakota"
+		},
+		{
+			"value": "Tennessee"
+		},
+		{
+			"value": "Texas"
+		},
+		{
+			"value": "Utah"
+		},
+		{
+			"value": "Vermont"
+		},
+		{
+			"value": "Virginia"
+		},
+		{
+			"value": "Washington"
+		},
+		{
+			"value": "West Virginia"
+		},
+		{
+			"value": "Wisconsin"
+		},
+		{
+			"value": "Wyoming"
+		}
+	], 
+	"industries" : [
+		{
+			"value": "Aerospace and Defense"
+		},
+		{
+			"value": "Auditing and Accounting"
+		},
+		{
+			"value": "Chemicals"
+		},
+		{
+			"value": "Construction"
+		},
+		{
+			"value": "Consumer Electronics and Household Appliances"
+		},
+		{
+			"value": "Consumer Goods"
+		},
+		{
+			"value": "Educational and Scientific Institutions"
+		},
+		{
+			"value": "Energy (Oil & Gas, Renewable Energy, Nuclear "
+		},
+		{
+			"value": "Engineering and Manufacturing"
+		},
+		{
+			"value": "Fashion, Accessories and Luxury Goods"
+		},
+		{
+			"value": "Forestry, Pulp and Paper"
+		},
+		{
+			"value": "Health Care Equipment"
+		},
+		{
+			"value": "Health Care Services"
+		},
+		{
+			"value": "Industrial Metals and Mining"
+		},
+		{
+			"value": "Insurance"
+		},
+		{
+			"value": "Legal Services"
+		},
+		{
+			"value": "Management and Strategy Consulting"
+		},
+		{
+			"value": "Media and Advertising"
+		},
+		{
+			"value": "Pharmaceuticals and Biotechnology"
+		},
+		{
+			"value": "Public Sector and Governmental Agencies"
+		},
+		{
+			"value": "Real Estate"
+		},
+		{
+			"value": "Retail"
+		},
+		{
+			"value": "Software and Computer Services"
+		},
+		{
+			"value": "Technology Hardware & Equipment"
+		},
+		{
+			"value": "Telecommunication and Networks"
+		},
+		{
+			"value": "Tourism"
+		},
+		{
+			"value": "Transportation and Logistics"
+		},
+		{
+			"value": "Utilities (Waste Management, Water, Electrici"
+		}
+	], 
+	"sizes": [
+		{
+			"value": "Small",
+			"display": "Below 50"
+		},
+		{
+			"value": "Medium",
+			"display": "50 - 500"
+		},
+		{
+			"value": "Large",
+			"display": "Over 500"
+		}
+	],
+	"types": [
+		{
+			"value": "Privately-owned national company/organization"
+		},
+		{
+			"value": "International company/organization"
+		},
+		{
+			"value": "Government"
+		},
+		{
+			"value": "Start-up"
+		}
+	],
+	"years": [
+		{
+			"value": "2009"
+		},
+		{
+			"value": "2010"
+		},
+		{
+			"value": "2011"
+		},
+		{
+			"value": "2012"
+		},
+		{
+			"value": "2013"
+		},
+		{
+			"value": "2014"
+		}
+	]
+}

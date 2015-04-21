@@ -1,0 +1,45 @@
+#picSlides
+{
+	width: 28em;
+	height: 14em;
+}
+#ital
+{
+    font-style: italic;
+}
+#intro
+{
+	margin-top: 3em;
+	width: 30em;
+	table-layout: fixed;
+}
+#introPic
+{
+	width: 10em;
+}
+#introText
+{
+	width: 18em;
+}
+#sendMessage
+{
+	padding-top: 8em;
+}
+#message-feedback
+{
+	padding-top: 8em;
+}
+.btn-primary
+{
+	background-color: #FFAB36;
+	border-color: #FFAB25
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary
+{
+	background-color: #FFAB20;
+	border-color: #FFAB25
+}

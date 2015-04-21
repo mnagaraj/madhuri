@@ -1,0 +1,39 @@
+.left-menu
+{
+	border-radius: 4px;
+	color: #FFFFFF;
+	background-color: #1FB0FF;
+}
+.left-menu > a
+{
+	color: #FFFFFF;
+}
+#user-list
+{
+	background-color: #FFFFFF;
+	color: #000000;
+	width: 15em;
+	margin-left: 3em;
+}
+#img-user-container > img
+{
+	width: 80px;
+	height: 80px;
+}
+#insights-table, #interv-table, #intern-table, #jobs-table, #skills-table
+{
+	background-color: #FFFFFF;
+	color: #000000;
+	width: 25em;
+	margin-left: 3em;
+	table-layout: fixed;
+}
+td.item
+{
+	border: 1px solid black;
+	font-weight: bold;
+}
+td.stat
+{
+	border: 1px solid black;
+}

@@ -1,0 +1,120 @@
+#message, #companyMessage
+{
+	width: 38em;
+	margin: auto;
+}
+#messageInput, #companyMessageInput
+{
+	margin-top: 0.8em;
+}
+#contents
+{
+	width: 38em;
+	margin: auto;
+}
+#wrapper, #wrapperCompany
+{
+	height: 30em;
+	overflow: auto;
+	border: 1px solid #bfc2c4;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+	background-color: #ffefef
+}
+#userList
+{
+	width: 40em;
+	margin-left: 6em;
+}
+#companyList
+{
+	width: 40em;
+	margin-left: 6em;
+}
+
+
+#title, #companyTitle
+{
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/**
+ * For the bubble
+*/
+.bubble-container
+{
+	display: none;
+	clear: both;
+	position:relative;
+	min-height: 5em;
+	width: 35em;
+	margin: auto;
+	padding-top: 0.8em;
+}
+.avatar
+{
+	border: 3px solid #FFAB20;
+	box-sizing: initial;
+	box-shadow: 0 1.5px 3.5px rgba(0,0,0,0.15);
+}
+.avatar, .avatar img
+{
+	width: 3.5em;
+	height: 3.5em;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+}
+.avatar-left:before
+{
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 10px 14px 10px 0;
+	border-color: transparent #ffffff;
+	display: block;
+	width: 0;
+	z-index: 1;
+	left: 61px;
+	top: 13px;
+}
+.avatar-right:before 
+{
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 10px 0 10px 14px;
+	border-color: transparent #ffffff;
+	display: block;
+	width: 0;
+	z-index: 1;
+	right: 61px;
+	top: 13px;
+}
+.bubble
+{
+	padding: 1em;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: rgba(255, 255, 255, 0.9);
+	color: #575858;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+}
+.avatar-left{
+	float: left;
+	width: 3.5em;
+}
+.bubble-left{
+	overflow: hidden;
+	margin-left: 5em;
+	word-wrap: break-word;
+}
+.avatar-right{
+	float: right;
+	width: 3.5em;
+}
+.bubble-right{
+	overflow: hidden;
+	margin-right: 5em;
+	word-wrap: break-word;
+}
